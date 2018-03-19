@@ -16,7 +16,7 @@ public class PointDomain {
 	private int buyNums;
 	// 当月退货次数
 	private int backNums;
-	// 当月购物总金额
+	// 当月购物总金额2323
 	private double buyMoney;
 	// 当月退货总金额
 	private double backMondy;
